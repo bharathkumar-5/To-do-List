@@ -88,7 +88,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(./images/Unchecked\ button\ \(2\).svg);
+    background-image: url(./images/Unchecked\ button.svg);
     block-size: cover;
     background-position: center;
     top: 12px;
